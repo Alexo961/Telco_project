@@ -108,7 +108,7 @@ mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
 navigator-updater==0.2.1
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.4
 -e git+https://github.com/Alexo961/networkx.git@3c1e3aefa477bee203fc2954e2bc1b3a27618041#egg=networkx
 nltk==3.4.5
